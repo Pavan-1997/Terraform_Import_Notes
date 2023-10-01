@@ -28,5 +28,6 @@ terraform import aws_instance.example i-03b2833109d7614ef
 
 
 6. Now do the terraform plan which should say that no changes are available 
-
+```
 terraform plan
+```
