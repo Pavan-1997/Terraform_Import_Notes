@@ -31,3 +31,4 @@ terraform import aws_instance.example i-03b2833109d7614ef
 ```
 terraform plan
 ```
+![Screenshot 2023-09-29 150118](https://github.com/Pavan-1997/Terraform_Import_Notes/assets/32020205/35d9b773-e2b9-498c-a7e5-89a893622540)
