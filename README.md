@@ -10,8 +10,9 @@ terraform init
 
 
 2.  Cretae a new state file (new.tf) from the instace 
-
+```
 terraform plan -generate-config-out=C:/Users/pavan/Desktop/TERRAFORM-8/new.tf
+```
 
 
 3. Now copy the contents from the (new.tf) file to (main.tf) file and delete the (new.tf) file  
