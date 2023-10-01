@@ -24,7 +24,7 @@ terraform import aws_instance.example i-03b2833109d7614ef
 ```
 
 
-5. Remove the ipv6_address_count & ipv6_addresses in the (main.tf) file to avoid conflicts
+5. Remove the `ipv6_address_count` & ipv6_addresses in the (main.tf) file to avoid conflicts
 
 
 6. Now do the terraform plan which should say that no changes are available 
