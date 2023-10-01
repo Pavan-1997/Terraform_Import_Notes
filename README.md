@@ -19,8 +19,9 @@ terraform plan -generate-config-out=C:/Users/pavan/Desktop/TERRAFORM-8/new.tf
 
 
 4. Now use the below to create a state file
-
+```
 terraform import aws_instance.example i-03b2833109d7614ef
+```
 
 
 5. Remove the ipv6_address_count & ipv6_addresses in the (main.tf) file to avoid conflicts
