@@ -2,7 +2,7 @@
  
 ### Migrating existing Infra to Terraform
     
-
+ 
 1. Inititialize the Terraform dirrectory
 ``` 
 terraform init 
