@@ -8,7 +8,7 @@
 terraform init 
 ```
     
-
+ 
 2.  Cretae a new state file (new.tf) from the instace 
 ```
 terraform plan -generate-config-out=C:/Users/pavan/Desktop/TERRAFORM-8/new.tf
