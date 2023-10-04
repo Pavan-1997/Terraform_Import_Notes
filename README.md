@@ -6,7 +6,7 @@
 1. Inititialize the Terraform dirrectory
 ``` 
 terraform init 
-```
+``` 
     
  
 2.  Cretae a new state file (new.tf) from the instace 
