@@ -1,6 +1,6 @@
 # Terraform_Import_Notes 
   
-### Migrating existing Infra to Terraform 
+### Migrating existing Infra to Terraform  
             
      
 1. Inititialize the Terraform dirrectory
